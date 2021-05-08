@@ -1,0 +1,2 @@
+F:\Work Space\C\Vsual Studio 2019\WorldCount\Debug\WorldCount.exe
+F:\Work Space\C\Vsual Studio 2019\WorldCount\Debug\WorldCount.pdb
